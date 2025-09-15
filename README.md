@@ -12,3 +12,4 @@ classified into 7 categories
 - mixed clouds
 https://github.com/shuangliutjnu/TJNU-Ground-based-Remote-Sensing-Cloud-Database?tab=readme-ov-file
 
+Dataset should be saved in repository called TJNU-GRSCD with the original file structure preserved

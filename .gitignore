@@ -219,3 +219,6 @@ __marimo__/
 #ImageFolder
 
 TJNU-GRSCD/
+
+# Visual Studio Code-specifika filer
+.vscode/

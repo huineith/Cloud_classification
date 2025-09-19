@@ -93,7 +93,7 @@ if pipeline is not None and uploaded_file is not None:
         article_name = WIKIPEDIA_ARTICLES[predicted_abbreviation]
         wiki_url = f"https://sv.wikipedia.org/wiki/{article_name}"
 
-    # Create the layout (same as before)
+    # Create the layout 
     col1, col2 = st.columns([1, 2])
 
     with col1:

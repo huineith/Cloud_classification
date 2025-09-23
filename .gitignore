@@ -222,3 +222,4 @@ TJNU-GRSCD/
 preprocessed_data/
 model/ 
 et_pipeline__CloudPredictor_128_ncomp_10_singleBatch.pkl
+Cloud_predictor_* 

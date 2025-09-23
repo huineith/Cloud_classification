@@ -41,7 +41,7 @@ def load_pipeline(pipeline_path):
         return None
 
 # Update the filename to the exact one from the notebook
-pipeline = load_pipeline('et_pipeline__CloudPredictor_128_ncomp_10_singleBatch.pkl')
+pipeline = load_pipeline('')
 
 
 # --- Advanced Preprocessing Function ---
